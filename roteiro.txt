@@ -1,5 +1,7 @@
 criado projeto
 npm init
+ ss
+npm install nodemon -D
 
-add express
-npm install express
+
+video 2 23:37
