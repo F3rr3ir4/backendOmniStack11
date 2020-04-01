@@ -3,5 +3,11 @@ npm init
  ss
 npm install nodemon -D
 
+usando o knex como driver de banco 
+npm install knex --save
+npm install mysql
 
-video 2 23:37
+npx knex init
+
+
+video 2 32:26
