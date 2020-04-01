@@ -8,6 +8,9 @@ module.exports = {
       user: "root",
       password: "",
       database: "omni11"
+    },
+    migrations: {
+      directory: "./src/database/migrations"
     }
   },
 
