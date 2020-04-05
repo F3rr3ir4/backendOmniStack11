@@ -9,5 +9,10 @@ npm install mysql
 
 npx knex init
 
+npx knex migrate:make create_ongs
 
-video 2 32:26
+npx knex migrate:latest
+
+
+
+video 2 1:12:21
