@@ -15,4 +15,4 @@ npx knex migrate:latest
 
 
 
-video 2 1:12:21
+video 2 1:33
